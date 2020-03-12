@@ -1,0 +1,3 @@
+CREATE DATABASE p3;
+USE p3;
+CREATE TABLE tabla (pagina VARCHAR(255) KEY, estatus BOOLEAN);
